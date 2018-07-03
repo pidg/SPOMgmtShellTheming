@@ -45,3 +45,9 @@ function kThemeRemove { Remove-SPOTheme -Name "$args" }
 
 # View a theme's details
 function kThemeRead { Get-SPOTheme -Name "$args" | ConvertTo-Json }
+
+# Hide default themes
+function kThemeDefaultsHide { Set-SPOHideDefaultThemes $true }
+
+# Show default themes
+function kThemeDefaultsShow { Set-SPOHideDefaultThemes $false }
