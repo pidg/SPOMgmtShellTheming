@@ -21,10 +21,10 @@ Removes a theme
 `kThemeRead MyThemeName`  
 Outputs a theme (show all custom themes by leaving parameter blank)
 
-`kThemeDefaultsHide`
+`kThemeDefaultsHide`  
 Hides default themes from the picker
 
-`kThemeDefaultsShow`
+`kThemeDefaultsShow`  
 Shows default themes in the picker
 
 ## Useful links
