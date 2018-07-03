@@ -25,3 +25,4 @@ Outputs a theme (show all custom themes by leaving parameter blank)
 
 * [Microsoft Theme Generator](https://developer.microsoft.com/en-us/fabric#/styles/themegenerator)
 * [How to create a multicoloured theme](https://laurakokkarinen.com/how-to-create-a-multicolored-theme-for-a-modern-sharepoint-online-site/)
+* [Brand Modern SharePoint Online sites](http://sharepoint.handsontek.net/2018/03/11/brand-modern-sharepoint-online-sites/)
