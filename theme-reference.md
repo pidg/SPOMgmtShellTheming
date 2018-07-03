@@ -27,7 +27,7 @@
 * Edit page - textbox format dropdown highlight
 
 ## themeDarkAlt
-* Publish bar icons (e.g. in Kira Staff Directory)
+* Publish bar icons
 * Panel toggle control hover
 * Button hover background
 * Following (this site) star/text
@@ -44,13 +44,13 @@
 * Webchats date block link hover
 * Webchats description block title
 
-## neutralLighterAlt*    * 
+## neutralLighterAlt
 * Left Nav highlight background
 * Edit page - textbox format dropdown text
 * Webchats date block background
 
 ## neutralLighter
-* Main nav bar background (outside of Kira nav bar)
+* Main nav bar background
 * 'New' button dropdown highlight background
 * Panels - dropdown highlight background
 * AD Person background (e.g. in Content Owner field)
