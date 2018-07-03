@@ -2,9 +2,9 @@
 
 Some commands you can add to a PowerShell profile to make custom themes easier to deal with in the SharePoint Online Management Shell.
 
-Hint: You can create a profile at C:\Windows\System32\WindowsPowerShell\1.0\profile.ps1 and it will be loaded on next run.
+Hint: You can create a profile at `C:\Windows\System32\WindowsPowerShell\1.0\profile.ps1` and it will be loaded on next run.
 
-Commands:
+## Commands
 
 `kConnect tenantname`  
 Connects to tenantname using GUI
@@ -20,3 +20,8 @@ Removes a theme
 
 `kThemeRead MyThemeName`  
 Outputs a theme (show all custom themes by leaving parameter blank)
+
+## Useful links
+
+* [Microsoft Theme Generator](https://developer.microsoft.com/en-us/fabric#/styles/themegenerator)
+* [How to create a multicoloured theme](https://laurakokkarinen.com/how-to-create-a-multicolored-theme-for-a-modern-sharepoint-online-site/)
