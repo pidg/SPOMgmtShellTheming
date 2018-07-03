@@ -21,6 +21,12 @@ Removes a theme
 `kThemeRead MyThemeName`  
 Outputs a theme (show all custom themes by leaving parameter blank)
 
+`kThemeDefaultsHide`
+Hides default themes from the picker
+
+`kThemeDefaultsShow`
+Shows default themes in the picker
+
 ## Useful links
 
 * [Microsoft Theme Generator](https://developer.microsoft.com/en-us/fabric#/styles/themegenerator)
