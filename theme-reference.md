@@ -1,3 +1,7 @@
+# SharePoint Online Modern Themes cheat sheet
+
+Quick reference for which colour affects what UI element.
+
 ## themePrimary
 * Quick Links placeholder background
 * Buttons
