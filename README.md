@@ -6,17 +6,17 @@ Hint: You can create a profile at C:\Windows\System32\WindowsPowerShell\1.0\prof
 
 Commands:
 
-**kConnect tenantname**  
+`kConnect tenantname`  
 Connects to tenantname using GUI
 
-**kConnectCli tenantname username password**  
+`kConnectCli tenantname username password`  
 Connects to tenantname using CLI
 
-**kThemeAdd MyThemeName @{ theme_data_as_hashtable_here }**  
+`kThemeAdd MyThemeName @{ theme_data_as_hashtable_here }`  
 Creates a new theme (or updates an existing one)
 
-**kThemeRemove MyThemeName**  
+`kThemeRemove MyThemeName`  
 Removes a theme
 
-**kThemeRead MyThemeName**  
+`kThemeRead MyThemeName`  
 Outputs a theme (show all custom themes by leaving parameter blank)
