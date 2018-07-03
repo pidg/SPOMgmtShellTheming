@@ -57,7 +57,7 @@ Quick reference for which colour affects what UI element.
 * Main nav bar background
 * 'New' button dropdown highlight background
 * Panels - dropdown highlight background
-* AD Person background (e.g. in Content Owner field)
+* AD Person background
 * Comments 'Post' button
 * Edit page - popup dialog titlebars
 * Edit page - icon backgrounds
@@ -70,7 +70,7 @@ Quick reference for which colour affects what UI element.
 * Border around many web parts
 * 'New' button hover
 * 'New' dropdown border
-* AD Person background hover (e.g. in Content Owner field)
+* AD Person background hover
 * Edit page - Save/Discard button hover background
 * Edit page - tooltip border
 
